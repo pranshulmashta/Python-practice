@@ -1,2 +1,2 @@
-# Python-practice
-Pyhton Practice Projects
+# Practice projects
+This folder contains Pyhton Practice Projects
